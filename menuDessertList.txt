@@ -1,0 +1,4 @@
+E001;Vanilla Ice Cream;3.00;
+E002;Chocolate Ice Cream;3.00;
+E003;Cheese Cake;7.00;
+E004;Choco;3.00

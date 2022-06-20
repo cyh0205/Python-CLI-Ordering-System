@@ -1,0 +1,4 @@
+D001;Rice;2.00;
+D002;Chicken;7.00;
+D003;Tomato;3.00;
+D004;Beef;8.00;

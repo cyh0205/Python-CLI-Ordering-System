@@ -1,0 +1,3 @@
+C001;Soy Sauce Noodle;8.00;
+C002;Beef Noodle Soup;10.00;
+C003;Spaghetti;9.00;

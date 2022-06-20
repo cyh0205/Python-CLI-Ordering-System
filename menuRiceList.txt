@@ -1,0 +1,3 @@
+B001;Fried Rice;8.50;
+B002;Tomato Rice;5.00;
+B003;Chicken Rice;9.00;

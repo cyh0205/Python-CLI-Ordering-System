@@ -1,0 +1,5 @@
+A001;Spider-berry pie;12.00;
+A002;Spiderman Candy Apple;8.00;
+A003;Spiderball;3.00;
+A004;Spidersss;12.00;
+A005;Spider chicken;3.00;
